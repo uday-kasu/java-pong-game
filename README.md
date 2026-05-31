@@ -56,6 +56,12 @@ git clone https://github.com/yourusername/java-pong-game.git
 ```bash
 Main.java
 ```
+## Screenshot
+
+![Pong Game](screenshot(1).png)
+## Screenshot
+
+![Pong Game](screenshot(2).png)
 
 ## Learning Outcomes
 
@@ -69,5 +75,5 @@ This project helped me learn:
 - Collision detection
 - Real-time game logic
 
-## Author
+
                                                   
