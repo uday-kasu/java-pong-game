@@ -58,10 +58,11 @@ Main.java
 ```
 ## Screenshot
 
-![Pong Game](screenshot(1).png)
+![Pong Game](screenshot(2).png)
 ## Screenshot
 
-![Pong Game](screenshot(2).png)
+![Pong Game](screenshot(1).png)
+
 
 ## Learning Outcomes
 
