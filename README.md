@@ -46,7 +46,7 @@ Ball.java
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/java-pong-game.git
+git clone https://github.com/uday-kasu/java-pong-game.git
 ```
 
 2. Open the project in your Java IDE
